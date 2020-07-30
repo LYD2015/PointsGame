@@ -3,3 +3,8 @@
 ################################################################################
 
 /PointsGame/bin
+/PointsGame/obj
+/PointsGame/Properties
+/PointsGame/PointsGame.xml
+/PointsGame/appsettings.Development.json
+/.vs
